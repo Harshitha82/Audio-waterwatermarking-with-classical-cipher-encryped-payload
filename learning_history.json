@@ -1,0 +1,16 @@
+[
+  {
+    "filename": "test.wav",
+    "size": 1000,
+    "bits": 2,
+    "success": true,
+    "snr": 110.75402511825294
+  },
+  {
+    "filename": "92dfa8df-7b16-4ab2-9be4-e53d0bc23cfa",
+    "size": 88244,
+    "bits": 1,
+    "success": true,
+    "snr": 119.76315579562963
+  }
+]

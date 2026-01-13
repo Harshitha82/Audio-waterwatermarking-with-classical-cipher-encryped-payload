@@ -1,0 +1,950 @@
+[{
+  "_id": {
+    "$oid": "695774094159a149e78a46e4"
+  },
+  "name": "Tea Valley Resort",
+  "city": "Munnar",
+  "state": "Kerala",
+  "rating": 4.7,
+  "pricePerNight": 8000,
+  "amenities": [
+    "Mountain View",
+    "Spa",
+    "Restaurant",
+    "WiFi"
+  ],
+  "contactNumber": "+91-4865-230456",
+  "description": "Luxury resort amidst tea estates",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46e5"
+  },
+  "name": "Riverline Cruises",
+  "city": "Alleppey",
+  "state": "Kerala",
+  "rating": 4.8,
+  "pricePerNight": 12000,
+  "amenities": [
+    "Houseboat",
+    "AC",
+    "Chef",
+    "Backwater View"
+  ],
+  "contactNumber": "+91-477-2251234",
+  "description": "Premium houseboat experience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46e6"
+  },
+  "name": "Vivanta Kumarakom",
+  "city": "Kumarakom",
+  "state": "Kerala",
+  "rating": 4.8,
+  "pricePerNight": 15000,
+  "amenities": [
+    "Lake View",
+    "Spa",
+    "Pool",
+    "Fine Dining"
+  ],
+  "contactNumber": "+91-481-2524711",
+  "description": "Lakeside luxury resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46e7"
+  },
+  "name": "Rambagh Palace",
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "rating": 4.9,
+  "pricePerNight": 25000,
+  "amenities": [
+    "Royal Heritage",
+    "Spa",
+    "Fine Dining",
+    "Gardens"
+  ],
+  "contactNumber": "+91-141-2211919",
+  "description": "Former royal residence",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46e8"
+  },
+  "name": "Taj Lake Palace",
+  "city": "Udaipur",
+  "state": "Rajasthan",
+  "rating": 4.9,
+  "pricePerNight": 30000,
+  "amenities": [
+    "Lake View",
+    "Boat Transfer",
+    "Spa",
+    "Heritage"
+  ],
+  "contactNumber": "+91-294-2428800",
+  "description": "Floating palace on Lake Pichola",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46e9"
+  },
+  "name": "Desert Camp",
+  "city": "Jaisalmer",
+  "state": "Rajasthan",
+  "rating": 4.6,
+  "pricePerNight": 8000,
+  "amenities": [
+    "Desert View",
+    "Cultural Shows",
+    "Camel Safari",
+    "Bonfire"
+  ],
+  "contactNumber": "+91-2992-252392",
+  "description": "Luxury desert camping",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46ea"
+  },
+  "name": "Hard Rock Hotel",
+  "city": "North Goa",
+  "state": "Goa",
+  "rating": 4.6,
+  "pricePerNight": 10000,
+  "amenities": [
+    "Beach Access",
+    "Pool",
+    "Nightclub",
+    "Spa"
+  ],
+  "contactNumber": "+91-832-6717777",
+  "description": "Beachfront party hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46eb"
+  },
+  "name": "The Leela",
+  "city": "South Goa",
+  "state": "Goa",
+  "rating": 4.7,
+  "pricePerNight": 15000,
+  "amenities": [
+    "Private Beach",
+    "Golf",
+    "Spa",
+    "Fine Dining"
+  ],
+  "contactNumber": "+91-832-6621234",
+  "description": "Luxury beach resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46ec"
+  },
+  "name": "Solang Valley Resort",
+  "city": "Manali",
+  "state": "Himachal Pradesh",
+  "rating": 4.7,
+  "pricePerNight": 9000,
+  "amenities": [
+    "Mountain View",
+    "Adventure Sports",
+    "Restaurant",
+    "Bonfire"
+  ],
+  "contactNumber": "+91-1902-250123",
+  "description": "Adventure resort in mountains",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46ed"
+  },
+  "name": "The Oberoi Cecil",
+  "city": "Shimla",
+  "state": "Himachal Pradesh",
+  "rating": 4.8,
+  "pricePerNight": 12000,
+  "amenities": [
+    "Heritage",
+    "Spa",
+    "Fine Dining",
+    "Valley View"
+  ],
+  "contactNumber": "+91-177-2804848",
+  "description": "Colonial heritage hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46ee"
+  },
+  "name": "Taj Mahal Palace",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "rating": 4.9,
+  "pricePerNight": 20000,
+  "amenities": [
+    "Sea View",
+    "Heritage",
+    "Spa",
+    "Fine Dining"
+  ],
+  "contactNumber": "+91-22-66653366",
+  "description": "Iconic Mumbai landmark hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46ef"
+  },
+  "name": "Della Resorts",
+  "city": "Lonavala",
+  "state": "Maharashtra",
+  "rating": 4.6,
+  "pricePerNight": 8000,
+  "amenities": [
+    "Adventure Park",
+    "Pool",
+    "Spa",
+    "Restaurant"
+  ],
+  "contactNumber": "+91-2114-668888",
+  "description": "Adventure and leisure resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f0"
+  },
+  "name": "Heritage Madurai",
+  "city": "Madurai",
+  "state": "Tamil Nadu",
+  "rating": 4.6,
+  "pricePerNight": 6000,
+  "amenities": [
+    "Heritage",
+    "Pool",
+    "Restaurant",
+    "Temple View"
+  ],
+  "contactNumber": "+91-452-2371601",
+  "description": "Heritage hotel near temple",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f1"
+  },
+  "name": "Savoy Hotel",
+  "city": "Ooty",
+  "state": "Tamil Nadu",
+  "rating": 4.7,
+  "pricePerNight": 8000,
+  "amenities": [
+    "Heritage",
+    "Garden",
+    "Restaurant",
+    "Hill View"
+  ],
+  "contactNumber": "+91-423-2445142",
+  "description": "Colonial era heritage hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f2"
+  },
+  "name": "Ganga Kinare",
+  "city": "Rishikesh",
+  "state": "Uttarakhand",
+  "rating": 4.7,
+  "pricePerNight": 7000,
+  "amenities": [
+    "River View",
+    "Yoga",
+    "Spa",
+    "Organic Food"
+  ],
+  "contactNumber": "+91-135-2430658",
+  "description": "Riverside wellness retreat",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f3"
+  },
+  "name": "The Naini Retreat",
+  "city": "Nainital",
+  "state": "Uttarakhand",
+  "rating": 4.6,
+  "pricePerNight": 8000,
+  "amenities": [
+    "Lake View",
+    "Heritage",
+    "Restaurant",
+    "Garden"
+  ],
+  "contactNumber": "+91-5942-237401",
+  "description": "Heritage hotel on hillside",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f4"
+  },
+  "name": "Lalitha Mahal Palace",
+  "city": "Mysore",
+  "state": "Karnataka",
+  "rating": 4.8,
+  "pricePerNight": 12000,
+  "amenities": [
+    "Royal Heritage",
+    "Spa",
+    "Fine Dining",
+    "Palace Grounds"
+  ],
+  "contactNumber": "+91-821-2470470",
+  "description": "Royal palace hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f5"
+  },
+  "name": "Orange County",
+  "city": "Coorg",
+  "state": "Karnataka",
+  "rating": 4.7,
+  "pricePerNight": 10000,
+  "amenities": [
+    "Plantation View",
+    "Spa",
+    "Nature Walks",
+    "Restaurant"
+  ],
+  "contactNumber": "+91-8272-265481",
+  "description": "Coffee plantation resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f6"
+  },
+  "name": "Vivanta Dal View",
+  "city": "Srinagar",
+  "state": "Jammu & Kashmir",
+  "rating": 4.8,
+  "pricePerNight": 15000,
+  "amenities": [
+    "Dal Lake View",
+    "Shikara",
+    "Spa",
+    "Kashmiri Cuisine"
+  ],
+  "contactNumber": "+91-194-2501001",
+  "description": "Luxury hotel on Dal Lake",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f7"
+  },
+  "name": "The Khyber Resort",
+  "city": "Gulmarg",
+  "state": "Jammu & Kashmir",
+  "rating": 4.9,
+  "pricePerNight": 18000,
+  "amenities": [
+    "Mountain View",
+    "Ski Access",
+    "Spa",
+    "Fine Dining"
+  ],
+  "contactNumber": "+91-1954-254444",
+  "description": "Premier ski resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f8"
+  },
+  "name": "Windamere Hotel",
+  "city": "Darjeeling",
+  "state": "West Bengal",
+  "rating": 4.7,
+  "pricePerNight": 9000,
+  "amenities": [
+    "Heritage",
+    "Mountain View",
+    "Tea Lounge",
+    "Garden"
+  ],
+  "contactNumber": "+91-354-2254041",
+  "description": "Colonial heritage hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46f9"
+  },
+  "name": "The Oberoi Grand",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "rating": 4.8,
+  "pricePerNight": 12000,
+  "amenities": [
+    "Heritage",
+    "Pool",
+    "Spa",
+    "Fine Dining"
+  ],
+  "contactNumber": "+91-33-22492323",
+  "description": "Grand heritage hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46fa"
+  },
+  "name": "Taj Swarna",
+  "city": "Amritsar",
+  "state": "Punjab",
+  "rating": 4.7,
+  "pricePerNight": 8000,
+  "amenities": [
+    "Modern Luxury",
+    "Pool",
+    "Spa",
+    "Restaurant"
+  ],
+  "contactNumber": "+91-183-2566666",
+  "description": "Modern luxury hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46fb"
+  },
+  "name": "Neemrana Patiala",
+  "city": "Patiala",
+  "state": "Punjab",
+  "rating": 4.6,
+  "pricePerNight": 7000,
+  "amenities": [
+    "Heritage",
+    "Garden",
+    "Restaurant",
+    "Cultural Shows"
+  ],
+  "contactNumber": "+91-175-2213456",
+  "description": "Heritage fort hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46fc"
+  },
+  "name": "Fortune Select Grand Ridge",
+  "city": "Tirupati",
+  "state": "Andhra Pradesh",
+  "rating": 4.5,
+  "pricePerNight": 5000,
+  "amenities": [
+    "Temple View",
+    "Restaurant",
+    "WiFi",
+    "AC"
+  ],
+  "contactNumber": "+91-877-2289999",
+  "description": "Comfortable hotel near temple",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46fd"
+  },
+  "name": "Novotel Visakhapatnam",
+  "city": "Visakhapatnam",
+  "state": "Andhra Pradesh",
+  "rating": 4.6,
+  "pricePerNight": 7000,
+  "amenities": [
+    "Beach View",
+    "Pool",
+    "Spa",
+    "Restaurant"
+  ],
+  "contactNumber": "+91-891-3045678",
+  "description": "Beachfront hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46fe"
+  },
+  "name": "Taj Falaknuma Palace",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "rating": 4.9,
+  "pricePerNight": 25000,
+  "amenities": [
+    "Royal Heritage",
+    "Spa",
+    "Fine Dining",
+    "Palace Museum"
+  ],
+  "contactNumber": "+91-40-66298585",
+  "description": "Nizam's palace hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a46ff"
+  },
+  "name": "Ramoji Film City Resort",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "rating": 4.5,
+  "pricePerNight": 6000,
+  "amenities": [
+    "Film City Access",
+    "Pool",
+    "Restaurant",
+    "Entertainment"
+  ],
+  "contactNumber": "+91-40-30413333",
+  "description": "Resort in film city",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4700"
+  },
+  "name": "Rann Riders",
+  "city": "Kutch",
+  "state": "Gujarat",
+  "rating": 4.7,
+  "pricePerNight": 10000,
+  "amenities": [
+    "Desert View",
+    "Cultural Shows",
+    "Local Cuisine",
+    "Stargazing"
+  ],
+  "contactNumber": "+91-2836-277600",
+  "description": "Desert resort experience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4701"
+  },
+  "name": "The Gateway Hotel Gir Forest",
+  "city": "Gir",
+  "state": "Gujarat",
+  "rating": 4.7,
+  "pricePerNight": 12000,
+  "amenities": [
+    "Forest View",
+    "Safari",
+    "Pool",
+    "Restaurant"
+  ],
+  "contactNumber": "+91-2877-285555",
+  "description": "Wildlife resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4702"
+  },
+  "name": "Mayfair Heritage",
+  "city": "Puri",
+  "state": "Odisha",
+  "rating": 4.6,
+  "pricePerNight": 7000,
+  "amenities": [
+    "Beach View",
+    "Pool",
+    "Spa",
+    "Restaurant"
+  ],
+  "contactNumber": "+91-6752-227800",
+  "description": "Beachside heritage hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4703"
+  },
+  "name": "Swosti Palm Resort",
+  "city": "Chilika",
+  "state": "Odisha",
+  "rating": 4.5,
+  "pricePerNight": 5000,
+  "amenities": [
+    "Lake View",
+    "Boat Rides",
+    "Restaurant",
+    "Garden"
+  ],
+  "contactNumber": "+91-6756-262888",
+  "description": "Lakeside resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4704"
+  },
+  "name": "Diphlu River Lodge",
+  "city": "Kaziranga",
+  "state": "Assam",
+  "rating": 4.8,
+  "pricePerNight": 15000,
+  "amenities": [
+    "Wildlife View",
+    "Safari",
+    "Organic Food",
+    "Nature Walks"
+  ],
+  "contactNumber": "+91-3776-268423",
+  "description": "Eco-lodge in wildlife sanctuary",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4705"
+  },
+  "name": "MV Mahabaahu",
+  "city": "Guwahati",
+  "state": "Assam",
+  "rating": 4.7,
+  "pricePerNight": 18000,
+  "amenities": [
+    "River Cruise",
+    "AC Cabins",
+    "Fine Dining",
+    "Cultural Shows"
+  ],
+  "contactNumber": "+91-361-2634666",
+  "description": "Luxury river cruise",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4706"
+  },
+  "name": "Ri Kynjai Resort",
+  "city": "Shillong",
+  "state": "Meghalaya",
+  "rating": 4.7,
+  "pricePerNight": 9000,
+  "amenities": [
+    "Lake View",
+    "Spa",
+    "Restaurant",
+    "Nature Walks"
+  ],
+  "contactNumber": "+91-364-2550396",
+  "description": "Lakeside boutique resort",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4707"
+  },
+  "name": "Hotel Polo Towers",
+  "city": "Shillong",
+  "state": "Meghalaya",
+  "rating": 4.5,
+  "pricePerNight": 5000,
+  "amenities": [
+    "City View",
+    "Restaurant",
+    "WiFi",
+    "Parking"
+  ],
+  "contactNumber": "+91-364-2223116",
+  "description": "City center hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4708"
+  },
+  "name": "Elgin Nor-Khill",
+  "city": "Gangtok",
+  "state": "Sikkim",
+  "rating": 4.8,
+  "pricePerNight": 12000,
+  "amenities": [
+    "Heritage",
+    "Mountain View",
+    "Spa",
+    "Fine Dining"
+  ],
+  "contactNumber": "+91-3592-205637",
+  "description": "Heritage mountain hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695774094159a149e78a4709"
+  },
+  "name": "Chumbi Residency",
+  "city": "Pelling",
+  "state": "Sikkim",
+  "rating": 4.6,
+  "pricePerNight": 6000,
+  "amenities": [
+    "Mountain View",
+    "Restaurant",
+    "Garden",
+    "Bonfire"
+  ],
+  "contactNumber": "+91-3595-250868",
+  "description": "Mountain view hotel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:30:17.530Z"
+  }
+}]

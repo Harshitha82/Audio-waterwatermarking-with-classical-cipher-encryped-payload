@@ -1,0 +1,205 @@
+[
+  {
+    "filename": "652f6fee-495a-4dd8-a6f5-085851710bcc",
+    "size": 882044,
+    "bits": 4,
+    "success": true,
+    "snr": 112.1442050868714
+  },
+  {
+    "filename": "376700bc-78ce-40ab-9bc9-1985e964ca0d",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 91.35118760158798
+  },
+  {
+    "filename": "38353ada-5ba3-40b9-ad40-6cfd6cf9c37e",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 91.35118760158798
+  },
+  {
+    "filename": "894096f7-5796-4c97-b4a1-6ad9b3fd8af3",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 91.73732174958101
+  },
+  {
+    "filename": "464e2890-c4bc-4030-acd2-8295f3e355af",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "fe8e22d3-deba-4c99-8208-8ece451d7763",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "e15044f9-e979-4936-897a-8ae16cf6cc4c",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "112d6e9d-f935-43cb-bf98-3c0a5e4bafcc",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "4ab47b77-1f90-4122-a647-fd369695e7f5",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "b28d3581-9ec9-4339-835a-085fb94a205b",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "302dcc20-ee3a-4e81-9d67-c41907a0d4d0",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "720b933a-e695-4319-acbd-b1666e817ce6",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 92.15020683457124
+  },
+  {
+    "filename": "65f0caea-a4d7-4b73-b095-3ca53b972737",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": Infinity
+  },
+  {
+    "filename": "0e98b190-9b47-4b64-a4d9-4b4651cb434d",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": Infinity
+  },
+  {
+    "filename": "e9fa230f-a1a2-45cb-a692-1ca8ff260501",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": Infinity
+  },
+  {
+    "filename": "f64a57d7-a28f-4330-b090-0de2f80acfb4",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": Infinity
+  },
+  {
+    "filename": "8b30ae4e-f9ef-402c-af6d-b090e0e74e90",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": Infinity
+  },
+  {
+    "filename": "52aaedd1-f3aa-4632-ba2d-b63eac29b01b",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 91.5938155095584
+  },
+  {
+    "filename": "39e22ac0-45c7-4729-854f-b5cd17f3fb5b",
+    "size": 882044,
+    "bits": 8,
+    "success": true,
+    "snr": 91.5938155095584
+  },
+  {
+    "filename": "c99c5b08-af92-499e-aebd-a147aca315af",
+    "size": 882044,
+    "bits": 1,
+    "success": true,
+    "snr": 124.60018212413695
+  },
+  {
+    "filename": "1e8e5207-487b-4dbc-aaf2-660b19b66eb2",
+    "size": 882044,
+    "bits": 1,
+    "success": true,
+    "snr": 120.80431405722537
+  },
+  {
+    "filename": "309191a0-bc43-4d4b-b7ec-7d466d93f879",
+    "size": 882044,
+    "bits": 1,
+    "success": true,
+    "snr": 116.4710485577084
+  },
+  {
+    "filename": "99f5c131-4c4f-4dd0-a851-831da721b627",
+    "size": 882044,
+    "bits": 1,
+    "success": true,
+    "snr": 115.24373306509861
+  },
+  {
+    "filename": "b430cd65-2d11-4832-b4a5-84b96b62d26a",
+    "size": 5116330,
+    "bits": 1,
+    "success": true,
+    "snr": 111.8889429084252
+  },
+  {
+    "filename": "3396a12e-30d5-4da5-bfdf-b687f659b256",
+    "size": 5115644,
+    "bits": 1,
+    "success": true,
+    "snr": Infinity
+  },
+  {
+    "filename": "3a8d401a-cf19-468f-9e21-8fce5be9876e",
+    "size": 5115644,
+    "bits": 1,
+    "success": true,
+    "snr": 119.53681579675647
+  },
+  {
+    "filename": "221e5101-fa33-4a6c-b5c3-634d7f3145d1",
+    "size": 5115644,
+    "bits": 1,
+    "success": true,
+    "snr": 119.53681579675647
+  },
+  {
+    "filename": "a973d49b-4a17-4d97-add6-d6a9841b4e01",
+    "size": 5115644,
+    "bits": 1,
+    "success": true,
+    "snr": 119.53681579675647
+  },
+  {
+    "filename": "fb9a0883-9953-467c-adc1-08fd358e2d15",
+    "size": 882044,
+    "bits": 3,
+    "success": true,
+    "snr": 114.66050221981024
+  }
+]
